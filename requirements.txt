@@ -1,3 +1,1 @@
-Flask>=0.10.1
-pyalsaaudio>=0.7
-pygobject>=3.12.1
+michi-mpris>=1.0.4
