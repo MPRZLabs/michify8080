@@ -1,1 +1,2 @@
-michi-mpris>=1.0.4
+Flask>=0.10.1
+michi-mpris>=1.0.5
